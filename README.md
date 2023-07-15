@@ -1,4 +1,6 @@
 # Superstore_dashboard
+Dashboard link: https://public.tableau.com/app/profile/oghale.agbawhe/viz/Profitabilityinvestigation_dashboard/IsLeastProfitablealwaysUnprofitable
+
 Welcome to my Tableau dashboard designed to analyze and identify the least profitable items in an inventory. This dashboard focuses on helping to understand the profitability of different items and their performance across various locations. Some items though not profitable overall, have made profit at times in various locations. 
 
 ![image](https://github.com/OghaleAgbawhe/Superstore_dashboard/assets/133532704/b30a2b1b-e162-45e2-8dfc-a5e23e5e07a2)
